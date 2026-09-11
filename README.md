@@ -3,7 +3,7 @@
 > **An end-to-end retail Data Science project for demand modeling, price simulation, and revenue optimization.**
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org/)
-[![Streamlit]([https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)](https://streamlit.io/](https://dynamic-price-optimization-lgtqpk8g9psaczuxfggvxj.streamlit.app/))
+[🚀 Open Live Dashboard](https://dynamic-price-optimization-lgtqpk8g9psaczuxfggvxj.streamlit.app/)
 [![Scikit--learn](https://img.shields.io/badge/Scikit--learn-ML-orange?logo=scikit-learn)](https://scikit-learn.org/)
 [![SQL](https://img.shields.io/badge/SQL-Data%20Extraction-informational?logo=microsoftsqlserver)](https://www.microsoft.com/sql-server)
 
