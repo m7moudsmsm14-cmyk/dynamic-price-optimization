@@ -1,0 +1,4 @@
+Upload this folder's CONTENTS to the GitHub repository root.
+Keep the folders notebooks/ and data/ as folders.
+Do NOT upload the original large retail_store_inventory.csv.
+Do NOT upload the ZIP file itself inside the repository.
